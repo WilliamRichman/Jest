@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Wills JEST test",
+  "main": "catsanddog.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "William",
+    "Test",
+    "open"
+  ],
+  "author": "William Richman",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {}
+}
